@@ -1,0 +1,17 @@
+{
+  "name": "pdv-insumos",
+  "version": "1.0.0",
+  "description": "Punto de venta de insumos agricolas - version 1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/pruebas.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.9.7",
+    "bcryptjs": "^2.4.3",
+    "pdfkit": "^0.15.0"
+  }
+}
