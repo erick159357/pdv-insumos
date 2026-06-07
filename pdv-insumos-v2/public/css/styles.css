@@ -1,0 +1,5 @@
+body { font-family: 'Segoe UI', Arial, sans-serif; }
+.nav-tabs .nav-link { cursor: pointer; }
+.card { border: 1px solid #e3e3e3; }
+table th { font-size: 0.85rem; }
+#graficaStock { max-height: 240px; }
